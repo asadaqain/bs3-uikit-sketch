@@ -9,52 +9,51 @@ This is still work in progress. You can help me with it.
 #### CSS
 * Grid system
 * Typography
-** ~~Headings~~
-** ~~Body copy~~
-** ~~Lead~~
-** Addresses
-** ~~Blockqoutes~~
+ * ~~Headings~~
+ * ~~Body copy~~
+ * ~~Lead~~
+ * Addresses
+ * ~~Blockqoutes~~
 * Code
 * Tables
 * Forms
-** ~~Radio/Checkbox + Compontents~~
-** ~~Normal state~~
-** ~~Focus state~~
-** ~~Disbaled state~~
-** Read only
-** Validation
-**
+ * ~~Radio/Checkbox + Compontents~~
+ * ~~Normal state~~
+ * ~~Focus state~~
+ * ~~Disbaled state~~
+ * Read only
+ * Validation
 * Buttons
-** ~~Default~~
-** ~~Colour Variants~~
-** Sizes
+ * ~~Default~~
+ * ~~Colour Variants~~
+ * Sizes
 * Images
-** ~~Circle~~
-** ~~Rounded~~
-** ~~Thumbnail~~
+ * ~~Circle~~
+ * ~~Rounded~~
+ * ~~Thumbnail~~
 
 #### Components
 * Glyphicons
 * Dropdowns
 * Button groups
-** Button toolbar
-** Sizing
-** Nesting
-** Vertical variation
+ * Button toolbar
+ * Sizing
+ * Nesting
+ * Vertical variation
 * Button dropdowns
-** Single
-** Split
-** Sizing
+ * Single
+ * Split
+ * Sizing
 * Input groups
-** Basic
-** Sizing
-** Checkboxes and radios
-** Button addons
-** Buttons with dropdowns
-** Segmented buttons
-** Multiple buttons
+ * Basic
+ * Sizing
+ * Checkboxes and radios
+ * Button addons
+ * Buttons with dropdowns
+ * Segmented buttons
+ * Multiple buttons
 * Navs
-** Pills
+ * Pills
 * Navbar
 * Breadcrumbs
 * Pagination
